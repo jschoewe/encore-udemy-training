@@ -43,8 +43,8 @@ do
 OS Windows = $WIN_COUNT
 OS Linux   = $LIN_COUNT
 OS Other   = $OTHER_OS_COUNT
-Environment Production  = $DEV_COUNT
-Environment Development = $PROD_COUNT
+Environment Production  = $PROD_COUNT
+Environment Development = $DEV_COUNT
 Environment Other       = $OTHER_ENV_COUNT
 EOF
 done
